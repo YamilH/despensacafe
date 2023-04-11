@@ -1,26 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "name": "Brazilian",
+    "price": 4.99,
+    "imgUrl": "/imgs/brazil.jpg"
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199,
-    "imgUrl": "/imgs/computer.jpg"
+    "name": "Columbian",
+    "price": 6.99,
+    "imgUrl": "/imgs/columbia.jpg"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
+    "name": "Costa Rican",
+    "price": 5.05,
+    "imgUrl": "/imgs/costarica.jpg"
   },
   {
     "id": 4,
-    "name": "Car",
-    "price": 14000,
-    "imgUrl": "/imgs/car.jpg"
+    "name": "Ethiopian",
+    "price": 5.00,
+    "imgUrl": "/imgs/ethiopia.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Kenyan",
+    "price": 5.99,
+    "imgUrl": "/imgs/kenya.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Peruvian",
+    "price": 4.05,
+    "imgUrl": "/imgs/peru.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Sumatran",
+    "price": 6.00,
+    "imgUrl": "/imgs/sumatra.jpg"
   }
 ]
